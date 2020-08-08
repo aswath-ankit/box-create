@@ -1,1 +1,1 @@
-# box-create
+# Box Class
